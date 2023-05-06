@@ -33,11 +33,11 @@ export const SidebarData = [
   },
   {
     icon: UilPackage,
-    heading: 'Products'
+    heading: "Products",
   },
   {
     icon: UilChart,
-    heading: 'Analytics'
+    heading: "Analytics",
   },
 ];
 
@@ -46,7 +46,7 @@ export const cardsData = [
   {
     title: "Sales",
     color: {
-      backGround: "linear-gradient(180deg, #bb67ff 0%, #c484f3 100%)",
+      backGround: "linear-gradient(180deg, #bb3ffb 0%, #bb3ffb 100%)",
       boxShadow: "0px 10px 20px 0px #e0c6f5",
     },
     barValue: 70,
@@ -79,7 +79,7 @@ export const cardsData = [
     title: "Expenses",
     color: {
       backGround:
-        "linear-gradient(rgb(248, 212, 154) -146.42%, rgb(255 202 113) -46.42%)",
+        "linear-gradient(180deg, #fffb00e6 -146.42%, #faee9dfe -46.42%)",
       boxShadow: "0px 10px 20px 0px #F9D59B",
     },
     barValue: 60,
