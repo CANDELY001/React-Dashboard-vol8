@@ -1,14 +1,15 @@
 :root {
-  --yellow: linear-gradient(180deg, #f8d49a -146.42%, #fad79d -46.42%);
-  --orange: #fca61f;
+  --yellow: linear-gradient(180deg, #fffb00e6 -146.42%, #faee9dfe -46.42%);
+  --orange: #fced1fc4;
   --black: #242d49;
   --gray: #788097;
-  --purple: linear-gradient(180deg, #bb67ff 0%, #c484f3 100%);
-  --pink: #ff919d;
+  --purple: linear-gradient(180deg, #bb67ffcd 0%, #c584f3d2 100%);
+  /* --pink: #ff919d;*/
+  --pink: #94bbe9;
   --glass: rgba(255, 255, 255, 0.54);
   --boxShadow: 0px 19px 60px rgb(0 0 0 / 8%);
   --smboxShadow: -79px 51px 60px rgba(0, 0, 0, 0.08);
-  --activeItem: #f799a354;
+  --activeItem: #94bce9a5;
 }
 
 .App {
